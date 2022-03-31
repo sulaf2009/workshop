@@ -1,3 +1,3 @@
 # workshop
 welcome to the research project
-[my_data](my_code)
+[my data](data.txt) | [my_code](analyze.py)
